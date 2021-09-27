@@ -1,4 +1,12 @@
-= Lord of The Rings: The Fellowship Of The Ring
+= Movie title
 
-I just likes rings, uh and fantasy I guess.
+I like this movie because it's kinda nice.
+Please darren come back.
 
+== Image here
+
+image::sunset.jpg[]
+
+- Nice
+- Movie
+- Man
